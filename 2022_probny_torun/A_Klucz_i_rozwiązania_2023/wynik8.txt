@@ -1,0 +1,18 @@
+8.1
+33
+
+8.2
+22
+
+8.3
+Nr	Suma 	Egzamin	Świadectwo	Nazwa profilu
+1	178	92	64		matematyczno-fizyczny
+2	174	81	71		matematyczno-fizyczno-informatyczny
+3	170	98	65		biologiczno-chemiczny
+4	168	99	62		biologiczno-chemiczno-matematyczny
+5	176	87	65		humanistyczny z rozszerzonym angielskim
+6	174	94	66		humanistyczny z rozszerzonym hiszpańskim
+7	179	88	68		Prawniczy
+8	168	83	69		prawniczy z rozszerzona matematyka
+9	176	79	71		Medialny
+10	174	82	68		medialny z rozszerzonym angielskim i niemieckim

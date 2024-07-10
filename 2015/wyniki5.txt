@@ -1,0 +1,9 @@
+5.2
+B:4
+D:4
+A:3
+C:8
+5.3
+a)125930205 mieszkancow
+  najwiecej 12C
+b)18

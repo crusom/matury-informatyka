@@ -1,0 +1,31 @@
+Zadanie 6.1
+pomorskie	67
+miasto	38
+wieś	29
+warmińsko-mazurskie	55
+miasto	23
+wieś	32
+zachodniopomorskie	60
+miasto	27
+wieś	33
+
+Zadanie 6.2
+lubuskie	35,6
+małopolskie	35,4
+opolskie	35,3
+łódzkie	34,5
+lubelskie	34,3
+świętokrzyskie	34,2
+podkarpackie	34,1
+podlaskie	33,8
+dolnośląskie	32,8
+kujawsko-pomorskie	32,6
+warmińsko-mazurskie	32,5
+śląskie	32,4
+wielkopolskie	32,1
+mazowieckie	32,0
+pomorskie	30,7
+zachodniopomorskie	25,7
+
+Zadanie 6.3
+błąd PESEL	5
